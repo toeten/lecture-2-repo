@@ -7,5 +7,3 @@ My favorite food is beans.
 This is lecture number 2! Yahoo.
 
 
-This content is hard but we got this!
-
